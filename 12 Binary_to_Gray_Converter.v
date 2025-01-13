@@ -1,4 +1,4 @@
-module Binary_to_Grey_Converter(
+module Binary_to_Gray_Converter(
     input [3:0] B,
     input [3:0] G
     );
